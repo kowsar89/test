@@ -8,7 +8,7 @@ Closes #
 
 ### Checklist:
 
--   [ ] Does your code follow the [WordPress' coding standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/)?
+-   [ ] Does your code follow the [WordPress coding standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/)?
 -   [ ] Have you added an explanation of what your changes do and why you'd like us to include them?
 
 <!-- Mark completed items with an [x] -->
